@@ -1,4 +1,9 @@
-develop branch
-added a feature
-to add Dockerfile
+Clone the project,
+in the root project, run the command 
+
+````
+docker-compose -up 
+````
+
+and go to 0.0.0.0:81 
 
