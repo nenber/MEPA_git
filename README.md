@@ -16,7 +16,7 @@ Run the command
 ```
 docker-compose up -d
 ```
-and navigate to ``` http://0.0.0.0:81/ ``` in order to see the site page.
+and navigate to ``` http://0.0.0.0:81/ ``` in order to access the site page.
 
 
 
